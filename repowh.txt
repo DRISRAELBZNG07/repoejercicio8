@@ -1,0 +1,5 @@
+git clone es para copiar por así decirlo el repo en tu computadora.
+push: para enviar los cambios recientes
+pull:para descargar los cambios recientes
+branch: ver las ramas.
+switch: cambiar de ramas
