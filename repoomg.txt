@@ -1,0 +1,6 @@
+clone, push, pull, branch, switch.
+clone: copiar o descargar los repos en tu computadora
+push: enviar cambios mas recientes
+pull: descargar la version mas reciente
+branch: ver ramas
+switch: cambiar de ramas
